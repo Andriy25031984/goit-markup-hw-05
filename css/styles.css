@@ -206,13 +206,14 @@ background: rgba(0, 0, 0, 0.2);
 }
 .closed{
   position: absolute;
-  background-image: url(../images/Vector.svg);
-  background-repeat: no-repeat;
-  width: 11px;
-  height: 11px;
-
-  top: 3px;
-  right: 4px;
+  width: 30px;
+  height: 30px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 50%;
+  background: #FFFFFF;
+  
+  top: 8px;
+  right: 8px;
 }
 
 /* pros */
